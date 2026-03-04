@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Lucaharper 👋 🚀
 
-<!--
-**nedainst/nedainst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Full-stack Developer | Linux Enthusiast | AI Explorer
 
-Here are some ideas to get you started:
+I am a software developer deeply engaged in building modern web applications and customizing system environments. I enjoy bridging the gap between robust backend logic and minimalist, efficient desktop setups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack & Tools
+
+**Frontend & Design**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+
+**Systems & Scripting**
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+---
+
+### 🚀 Projects in Focus
+
+- **SIABS:** A comprehensive School Academic Information System built with Laravel.
+- **Dotfiles:** My personal Arch Linux configuration featuring Hyprland for a productive, minimalist workflow.
+- **Discord Bots:** Custom automation tools built using JavaScript and Python.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucaharper&show_icons=true&theme=tokyonight" alt="Lucaharper's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaharper&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with me
+- 💼 **LinkedIn:** [Your Profile Link]
+- 🌐 **Portfolio:** [Your Website Link]
+- 💬 **Discord:** [Your Username]
+
+*"I use Arch, btw."* 🐧
