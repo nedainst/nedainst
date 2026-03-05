@@ -1,4 +1,4 @@
-# Hi there, I'm Lucaharper 👋 🚀
+# Hi, I'm Neda 👋 🚀
 
 ### 🛠️ Full-stack Developer | Linux Enthusiast | AI Explorer
 
