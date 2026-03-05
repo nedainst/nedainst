@@ -1,16 +1,14 @@
 # Hi, I'm Neda 👋 🚀
 
-### 🛠️ Full-stack Developer | Linux Enthusiast | AI Explorer
+### 🛠️ Web Developer
 
-I am a software developer deeply engaged in building modern web applications and customizing system environments. I enjoy bridging the gap between robust backend logic and minimalist, efficient desktop setups.
+I am a web developer
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 **Frontend & Design**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
