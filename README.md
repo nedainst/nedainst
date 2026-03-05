@@ -20,16 +20,13 @@ I am a software developer deeply engaged in building modern web applications and
 
 **Systems & Scripting**
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 ---
 
 ### 🚀 Projects in Focus
 
-- **SIABS:** A comprehensive School Academic Information System built with Laravel.
-- **Dotfiles:** My personal Arch Linux configuration featuring Hyprland for a productive, minimalist workflow.
-- **Discord Bots:** Custom automation tools built using JavaScript and Python.
+-
 
 ---
 
@@ -42,9 +39,5 @@ I am a software developer deeply engaged in building modern web applications and
 
 ---
 
-### 📫 Connect with me
-- 💼 **LinkedIn:** [Your Profile Link]
-- 🌐 **Portfolio:** [Your Website Link]
-- 💬 **Discord:** [Your Username]
 
-*"I use Arch, btw."* 🐧
+*"I use Ubuntu, btw."* 🐧
