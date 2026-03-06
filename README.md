@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Halo,%20Saya%20[Nama%20Kamu]!&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Halo,%20Saya%20Neda!&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ### 📊 Aktivitas GitHub (Real-time)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username-github-kamu&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nedainst&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Stats" />
 </p>
 
 <p align="center">
