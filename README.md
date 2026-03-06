@@ -1,50 +1,50 @@
-# Halo, Saya [Nama Kamu]! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Halo,%20Saya%20[Nama%20Kamu]!&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username-github-kamu&color=blueviolet&style=flat-square" alt="Views" />
-</p>
-
-### 💫 Tentang Saya
-Seorang **Web Developer** yang bersemangat menciptakan aplikasi web yang fungsional dan estetis. Fokus saya saat ini adalah mengembangkan solusi modern menggunakan ekosistem PHP dan JavaScript.
-
-- 🔭 Sedang mengerjakan: **[Nama Proyek/Portfolio]**
-- 🌱 Sedang memperdalam: **Laravel Optimization & React.js**
-- 💬 Tanya saya tentang: **PHP, Laravel, atau Styling CSS**
-- ⚡ Fun fact: Saya percaya `padding` yang tepat bisa menyelamatkan dunia.
-
----
-
-### 🚀 Keahlian & Teknologi
-
-#### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-#### ⚙️ Backend & Framework
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Laravel+Enthusiast;UI/UX+Lover;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📊 Statistik GitHub
+### ⚡ Sedikit Tentang Saya
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-github-kamu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+* 🔭 Saya saat ini sedang membangun aplikasi dengan **Laravel & JavaScript**.
+* 🌱 Sedang mendalami **API Security** dan **Clean Code Architecture**.
+* 👯 Saya terbuka untuk kolaborasi di proyek **Open Source**.
+* 💬 Tanya saya tentang cara membuat **REST API** yang efisien.
+* 📫 Cara menghubungi saya: **[email@kamu.com]**
+
+---
+
+### 🛠️ Toolbox (Tech Stack)
+
+| Frontend | Backend | Tools |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=php,laravel" /> | <img src="https://skillicons.dev/icons?i=mysql,git,vscode,postman" /> |
+
+---
+
+### 📊 Aktivitas GitHub (Real-time)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username-github-kamu&show_icons=true&theme=dracula&count_private=true" alt="Statistik GitHub" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-github-kamu&layout=compact&theme=dracula&hide_langs=html" alt="Bahasa Populer" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=username-github-kamu&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username-github-kamu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
 
-### 📫 Mari Terhubung
-<p align="left">
-<a href="mailto:azmufthi1234123@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-<a href="https://instagram.com/nedainstproject._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+### 🤝 Mari Terhubung
+<p align="center">
+<a href="https://linkedin.com/in/username-kamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/username-kamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://wa.me/nomorkamu"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<p align="right">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=20&section=footer" width="100%"/>
 </p>
