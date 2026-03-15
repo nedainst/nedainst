@@ -9,7 +9,7 @@
 ---
 
 ### ⚡ Sedikit Tentang Saya
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-github-kamu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedainst&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 * 🔭 Saya saat ini sedang membangun aplikasi dengan **Laravel & JavaScript**.
 * 🌱 Sedang mendalami **API Security** dan **Clean Code Architecture**.
